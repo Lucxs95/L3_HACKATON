@@ -1,6 +1,6 @@
 # L3_HACKATON
 
-##Search for Accessible Hotels
+## Search for Accessible Hotels
 
 Travelers with disabilities have difficulties finding hotels that are accessible. For
 example, a person in a wheelchair will find a room that does not offer a compliant
