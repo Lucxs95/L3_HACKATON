@@ -1,0 +1,30 @@
+Normes PMR
+
+1. Accessibilité fauteuil roulant
+Depuis janvier 2015, les normes handicapé impose que les bâtiments qui reçoivent du public soient accessibles en fauteuil roulant. Elles définissent 
+la largeur des portes PMR, la présence obligatoire d’un élévateur ou d’un ascenseur ainsi que les dimensions d’une rampe d’accès PMR.
+https://www.handinorme.com/accessibilite-handicap/131-accessibilite-des-chambres-amenagees-des-erp-aux-personnes-handicapees-et-pmr-handinorme
+
+2. Accessibilité et sécurité personnes malvoyantes
+Ces normes handicapé prévoient aussi une bande d’aide à l’orientation, qui protège des obstacles dans les espaces publics.
+
+3. Qualité de l’éclairage
+Lorsque la lumière naturelle n’est pas suffisante, l’éclairage artificiel est soumis à une réglementation PMR, qui définit la puissance lumineuse 
+nécessaire en fonction du lieu à éclairer.
+
+4. Sanitaires et WC
+Les normes PMR en matière de sanitaire et WC régissent l’espace nécessaire pour qu’une personne en fauteuil puisse utiliser les toilettes et le lavabo. 
+Elles obligent aussi à positionner le miroir à l’oblique et d’installer une poignée au mur.
+
+5. Portes et poignées de porte
+Il existe de nombreuses exigences en ce qui concerne les dimensions des portes d’entrées et d’urgence, l’espace de manœuvre nécessaire ou le
+débattement, le poids des portes, le repérage des parties vitrées, du système de repérage électrique, etc. De même, les poignées de portes doiven
+être « saisissables » et les boutons de déverrouillage doivent être clairement indiquées et présenter un contraste avec l’environnement.
+
+6. Signalisation
+Enfin, il convient de mettre en place une signalétique adaptée dans le logement pour PMR, dont les règles dépendent de la distance prévue entre le lecteur et
+la signalétique.
+
+Si le lecteur se trouve à 1 m : lettres de 30 mm et logo de 50 mm
+S’il est à 2 m : lettres de 60 mm et logo de 100 mm
+S’il est à 5 m : lettres de 150 mm et logo de 250 mm
