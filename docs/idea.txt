@@ -28,3 +28,27 @@ la signalétique.
 Si le lecteur se trouve à 1 m : lettres de 30 mm et logo de 50 mm
 S’il est à 2 m : lettres de 60 mm et logo de 100 mm
 S’il est à 5 m : lettres de 150 mm et logo de 250 mm
+
+
+
+////////////////////////////////////////////////////////////////
+
+---- Initialiser le projet REACT.JS    (OBLIGATOIRE)
+
+1- Page de recherche comportant les tags (aveugle, handicapé moteur, handicapé visuel, handicapé auditif, handicapé mental, handicapé psychique)
+
+2- Catalogue des résultats de recherche (trier par plusieurs critères et les filtres par catégories) 
+
+3- Page en détail de l'hotel (Details concernant l'hotel avec les points d'accesibilité et les services)
+
+---- Base de donées (API ou à faire à la main)
+
+1- Scrap les tags des hotels (les critères d'accessiblité)
+
+2- Scrap les informations en détails des hotels et les traiter (calculer distance)
+
+3- Gérer la base de Client / Admins (modif de la base de donnéees)
+
+---- Espace Client (OPTIONNEL)
+
+---- Espace Administrateurs (OPTIONNEL)
