@@ -51,4 +51,15 @@ S’il est à 5 m : lettres de 150 mm et logo de 250 mm
 
 ---- Espace Client (OPTIONNEL)
 
+1- Pouvoir s'inscrire
+
+2- Pouvoir se connecter 
+
+3- Pouvoir reserver ?
+
 ---- Espace Administrateurs (OPTIONNEL)
+
+1- Pouvoir s'inscrire
+
+2- Pouvoir se connecter 
+
