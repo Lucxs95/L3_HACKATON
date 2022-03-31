@@ -14,7 +14,9 @@ function Header() {
                 <img
                     className="header__icon"
                     src={logo}
-                    alt=""
+                    alt="logo hotel accessible"
+                    height={'120px'}
+                    width={'120px'}
                 />
             </Link>
            
