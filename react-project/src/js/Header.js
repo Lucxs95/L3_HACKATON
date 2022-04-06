@@ -19,14 +19,13 @@ function Header() {
                     width={'120px'}
                 />
             </Link>
-           
+
             <div className='header__center'>
                 <input type="text" />
                 <SearchIcon />
             </div>
 
             <div className='header__right'>
-                <p>Become a host</p>
                 <LanguageIcon />
                 <ExpandMoreIcon />
                 <Avatar />

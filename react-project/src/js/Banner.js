@@ -18,7 +18,7 @@ function Banner() {
                 </Button>
             </div>
             <div className='banner__info'>
-                <h1>Find a place for you </h1>
+                <h1>Never again be left</h1>
                 <h5>
                 Whatever your situation, you will find the right place here ! 
                 </h5>

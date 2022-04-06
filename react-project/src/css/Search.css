@@ -34,7 +34,7 @@
 .search > button {
     position: absolute;
     left: 0;
-    top: 480px;
+    top: 350px;
     text-transform: inherit !important;
     background-color: #7799ff;
     color: white;
