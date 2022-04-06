@@ -5,9 +5,11 @@ import Header from './Header'
 import Footer from './Footer'
 import SearchPage from './SearchPage'
 
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
+
   return (
     <div className="app">
       <Router>

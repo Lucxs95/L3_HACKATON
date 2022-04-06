@@ -3,7 +3,6 @@ import '../css/Home.css';
 import Banner from './Banner'
 import Card from './Card'
 import img1 from '../img/disability.webp';
-// ES7 snippets to do 'rfce'
 
 function Home() {
     return (

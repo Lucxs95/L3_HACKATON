@@ -11,7 +11,10 @@ function SearchResult({
     star,
     price,
     total,
-}) {
+    label,
+
+}) 
+{
     return (
         <div className='searchResult'>
             <img src={img} alt="" />
