@@ -25,7 +25,7 @@ export const hotels = [
         id: 3,
         img:"https://cdn.bisnow.net/fit?height=489&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F05%2F59151d0978bbf_https_press_atairbnb_com_app_uploads_2016_12_midtown_4.jpeg&width=717&sign=FeltIPi9cOWA36nVIeDvZxwgtiCZrpUyMRdvyZviTUI",
         location:"Simple room in center of London",
-        label : "mental",
+        label : "deaf",
         title:"30 mins to Oxford Street, Excel London",
         description:"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi ·Silent and simple room especially adapted for mental disability",
         star: 4.1,
@@ -51,8 +51,4 @@ export const buttons = [
       name: "Deaf",
       value: "deaf"
     },
-    {
-      name: "Mental disability",
-      value: "mental"
-    }
   ];

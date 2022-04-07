@@ -22,7 +22,8 @@ function Banner() {
                 <h5>
                 Whatever your situation, you will find the right place here ! 
                 </h5>
-                <Button onClick={() => navigate('/search')} variant='outlined'>Explore Nearby</Button>
+                <Button onClick={() => navigate('/search')} variant='outlined'>Explore Nearby
+                </Button>
             </div>
         </div>
     )

@@ -12,7 +12,9 @@ function SearchPage() {
     }, []);
   
     function handlehotels(e) {
-      let typehotels = e.target.value;
+      console.log(e)
+      let typehotels = e.target.onclick ? e.target.id : e.target.innerHTML.toLowerCase();
+      console.log(e.target.innerHTML);
       typehotels !== "all"
         ? setFiltredhotels(filterhotels(typehotels))
         : setFiltredhotels(gethotels());
@@ -23,10 +25,11 @@ function SearchPage() {
                 <p>4 stays · 26 august to 30 august · 2 guest</p>
                 <h1>Stays nearby</h1>
         <>
+
           {buttons &&
             buttons.map((filter, index) => (
               <>
-                <Button variant="outlined" key={index} value={filter.value} onClick={handlehotels}>
+                <Button variant="outlined" key={index} id={filter.value} onClick={handlehotels}>
                   {filter.name}
                 </Button>
               </>
